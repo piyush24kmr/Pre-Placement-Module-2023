@@ -91,7 +91,7 @@
         <div class="contacts">
           <div class="links">
             <ul>
-              <li class="items"><a href="piyush.19231003@kiet.edu" target="_blank">E-mail</a></li>
+              <li class="items"><a href="piyush.1923ce1003@kiet.edu" target="_blank">E-mail</a></li>
               <li class="items"><a href="https://www.linkedin.com/in/piyush-45605a201/" target="_blank">Linked in</a></li>
               <li class="items"><a href="#">Facebook</a></li>
               <li class="items"><a href="#">Twitter</a></li>
