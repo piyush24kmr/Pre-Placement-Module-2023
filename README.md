@@ -4,7 +4,7 @@
 - University Roll No.:1900290000046
 - Branch:CIVIL
 - Section:B
-- Preferred Programming Language: C++/Java/Python C++/PYTHON
+- Preferred Programming Language: C++
 
 ## Coding Profiles
 - LeetCode: piyush(https://leetcode.com/piyush24kmr)
