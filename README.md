@@ -7,8 +7,8 @@
 - Preferred Programming Language: C++/Java/Python C++/PYTHON
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/piyush24kmr)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/@piyush_1923ce101)
+- LeetCode: piyush(https://leetcode.com/piyush24kmr)
+- HackerRank: Piyush(https://www.hackerrank.com/@piyush_1923ce101)
 
 ## Placement Module
 1. [DS I](https://github.com/piyush24kmr/Pre-Placement-Module-2023/tree/main/DS%20I)
